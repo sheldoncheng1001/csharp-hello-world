@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("你好");
             Console.WriteLine("歡迎使用 C# 程式設計!");
             
             Console.Write("請輸入您的名字: ");
